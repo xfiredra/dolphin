@@ -1,6 +1,5 @@
 {
-    "name": "dolphin",
-    "display_name": "Dolphin",
+    "name": "dolphin",,
     "description": "Dolphin is a example plugin for testing",
     "owner":{
         "name": "xfiredra",
@@ -9,7 +8,6 @@
     "plugins": [
         {
             "name": "dolphin",
-            "display_name": "Dolphin",
             "description": "Dolphin is a example plugin for testing",
             "source": "./",
             "category": "productivity",

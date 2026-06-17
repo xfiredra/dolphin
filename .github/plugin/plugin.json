@@ -1,13 +1,13 @@
 {
-    "name": "Dolphin",
+    "name": "dolphin",
     "version": "0.1.0",
     "description": "Dolphin is a example plugin for testing",
     "author": {
         "name": "xfiredra",
         "url": "https://github.com/xfiredra"
     },
-    "homepage": "https://github.com/xfiredra",
-    "repository": "https://github.com/xfiredra",
+    "homepage": "https://github.com/xfiredra/dolphin",
+    "repository": "https://github.com/xfiredra/dolphin",
     "license": "MIT",
     "keywords": [
         "yagni",
