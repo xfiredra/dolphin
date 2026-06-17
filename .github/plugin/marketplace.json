@@ -1,0 +1,22 @@
+{
+    "name": "dolphin",
+    "display_name": "Dolphin",
+    "description": "Dolphin is a example plugin for testing",
+    "owner":{
+        "name": "xfiredra",
+        "url": "https://github.com/xfiredra"
+    },
+    "plugins": [
+        {
+            "name": "dolphin",
+            "display_name": "Dolphin",
+            "description": "Dolphin is a example plugin for testing",
+            "source": "./",
+            "category": "productivity",
+            "tags": ["yagni", "minimalism", "code-review", "productivity"],
+            "commands": "commands/",
+            "skills": "skills/",
+            "hooks": "hooks/copilot-hooks.json"
+        }
+    ]
+}

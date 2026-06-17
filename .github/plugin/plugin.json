@@ -1,0 +1,21 @@
+{
+    "name": "Dolphin",
+    "version": "0.1.0",
+    "description": "Dolphin is a example plugin for testing",
+    "author": {
+        "name": "xfiredra",
+        "url": "https://github.com/xfiredra"
+    },
+    "homepage": "https://github.com/xfiredra",
+    "repository": "https://github.com/xfiredra",
+    "license": "MIT",
+    "keywords": [
+        "yagni",
+        "minimalism",
+        "code-review",
+        "productivity"
+    ],
+    "commands": "commands/",
+    "skills": "skills/",
+    "hooks": "hooks/copilot-hooks.json"
+}
